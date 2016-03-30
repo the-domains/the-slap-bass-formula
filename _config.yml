@@ -1,0 +1,28 @@
+name: The Slap Bass Formula
+favicon: null
+layout_spectrum: 0.3743457302916795
+typography_spectrum: 0.5913566721137613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.22228007321245968
+  lightness: 0.776990048121661
+  saturation: 0.9661735382396728
+  rhythmicContrast: 0.2816607691347599
+purpose: []
