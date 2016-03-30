@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Slap Bass Formula]]></title>
+        <description><![CDATA[The Slap Bass Formula]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 10:15:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd5fe15d-c6bb-4a86-92f9-3becee3847a9.gif">]]></description>
+            <link>undefined838c505c-6e86-42b1-8b35-0d7f852c622f/index.html</link>
+            <guid isPermaLink="false">838c505c-6e86-42b1-8b35-0d7f852c622f</guid>
+            <pubDate>Wed, 30 Mar 2016 10:15:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
